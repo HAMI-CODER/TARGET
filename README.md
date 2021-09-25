@@ -15,7 +15,7 @@ $pip2 install requests
 $pip2 install mechanize
 
 $pkg install git 
-
+$rm -rf HAMI
 $git clone 
 
 $cd TARGET 
